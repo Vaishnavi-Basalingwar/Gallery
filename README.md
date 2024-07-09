@@ -1,6 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # Gallery
 =======
+=======
+>>>>>>> 23b74e67209173465aac6731d3c0de6dc8d9c420
 In this project, let's build a **Gallery App** by applying the concepts we have learned till now.
 
 ### Refer to the image below:
@@ -128,4 +131,7 @@ Use these files to complete the implementation:
 > - Don't change the component folder names as those are the files being imported into the tests.
 > - **Do not remove the pre-filled code**
 > - Want to quickly review some of the concepts you’ve been learning? Take a look at the Cheat Sheets.
+<<<<<<< HEAD
 >>>>>>> Final Code
+=======
+>>>>>>> 23b74e67209173465aac6731d3c0de6dc8d9c420
